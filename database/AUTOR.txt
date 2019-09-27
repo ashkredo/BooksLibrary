@@ -1,0 +1,21 @@
+1,Miller P. (red.)
+2,Chismar J.
+3,B³aszczyk
+4,Le  B.
+5,Cassel P. Eddy C.
+6,Mitchell S.
+7,Huzar Z. FryŸlewicz Z. Dubil
+8,Cytowski J.
+9,Banachowski L. Diks K. Rytter
+10,Stephens R.
+11,Sys³o M. Deo N.
+12,Wróblewski P.
+13,zbiorowa
+14,Muller R.
+15,Banachowski L.
+16,Barteczko K.
+17,Arnold K. Gosling J.
+18,Bielecki J.
+19,Boone B.
+20,Harrington J.L.
+21,Lausen G. Vossen G.
